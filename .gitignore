@@ -1,0 +1,9 @@
+*.idea
+*.ipynb
+*.yaml
+/final_image.png
+*.pyc
+*.pdf
+secrets.toml
+*.txt
+doc_converter.py
