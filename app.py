@@ -22,7 +22,7 @@ try:
     st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
     # ---------- HEADER ----------
-    st.title("NotesGeni AI")
+    st.title("Notesgenie AI")
     st.write(
         "User-friendly, lightweight, and open-source tool to preview and extract content and metadata from PDFs, add or remove passwords, modify, merge, convert and compress PDFs."
     )

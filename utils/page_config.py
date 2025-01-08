@@ -5,7 +5,7 @@ from utils import version
 
 def set():
     set_page_config(
-        page_title="NotesGeniAI",
+        page_title="Notesgenie AI",
         page_icon="📄",
         menu_items={
             "About": f"NotesGeni AI\n "
