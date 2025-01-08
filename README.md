@@ -24,7 +24,7 @@ And the best part? It's completely **free**, **open-source**, and respects your 
 Your feedback and contributions can help shape the future of PDF WorkDesk. If you have ideas or features you'd like to see, let's collaborate!
 
 - **Contribute**: Submit PRs or open issues on GitHub.
-- **Connect**: Have questions or suggestions? Reach out to me on [LinkedIn](https://linkedin.com/in/siddhantsadangi).
+- **Connect**: Have questions or suggestions? Reach out to me on [LinkedIn](https://linkedin.com/in/saqib77).
 
 ## Acknowledgements 🤗
 This app is based on [pypdf](https://github.com/py-pdf/pypdf) and basically provides a UI for non-technical users to use supported features of pypdf. Thanks to the pypdf team 🫶  
