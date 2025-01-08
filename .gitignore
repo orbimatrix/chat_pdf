@@ -5,5 +5,5 @@
 *.pyc
 *.pdf
 secrets.toml
-*.txt
+# *.txt
 doc_converter.py

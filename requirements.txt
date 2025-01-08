@@ -1,0 +1,9 @@
+pandas
+pdf2docx
+pdfplumber
+pillow
+st-social-media-links
+streamlit-pdf-viewer
+pypdf
+lxml
+cryptography
